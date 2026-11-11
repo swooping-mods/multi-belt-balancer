@@ -1,0 +1,6 @@
+{
+  "schema": "moon-independent-build-spec/v1",
+  "id": "multi-belt-balancer",
+  "kind": "native",
+  "entry": "mods/multi-belt-balancer/mod.c"
+}

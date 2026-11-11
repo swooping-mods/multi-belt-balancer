@@ -1,0 +1,13 @@
+{
+  "id": "multi-belt-balancer",
+  "kind": "native",
+  "version": "0.2.0",
+  "backlog": "I09",
+  "display_name": "Multi Belt Balancer",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "F5 selects 2x2/3x3/4x4; I selects aimed inputs, O selects outputs; $40/lane.",
+    "Aligned 3x3 junctions display the supplied three-lane housing; gameplay qualification pending."
+  ]
+}
