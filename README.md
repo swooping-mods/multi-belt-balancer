@@ -1,5 +1,7 @@
 # Multi Belt Balancer
 
+<img src="media/icon.png" alt="Multi Belt Balancer icon" width="128" height="128">
+
 Configure 2x2, 3x3 and 4x4 native belt junctions; aligned 3x3 layouts display the supplied housing.
 
 ## Install
