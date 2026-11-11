@@ -6,7 +6,9 @@ Configure 2x2, 3x3 and 4x4 native belt junctions; aligned 3x3 layouts display th
 
 Install [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) first.
 
-Download [multi-belt-balancer-0.2.0.msmod](content/multi-belt-balancer-0.2.0.msmod), import it with **Install mod package**, then select the mod and its required frameworks.
+Download [multi-belt-balancer-0.2.0.msmod](content/multi-belt-balancer-0.2.0.msmod), then drag and drop the `.msmod` file onto the [Moon Sweepers Mod Loader](https://github.com/swooping-mods/moon-sweepers-mod-loader) window. You can also use **Add mods…** (older loader builds: **Install mod package**).
+
+Select the mod and its required frameworks, click **Prepare files**, then **Launch**.
 
 ## Controls
 
