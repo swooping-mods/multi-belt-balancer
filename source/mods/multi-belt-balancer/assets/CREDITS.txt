@@ -1,2 +1,14 @@
-Small Loop Works: mod and shared adapter code.
-Moon Sweepers: DragDrop Games.
+User-supplied local three-lane conveyor housing, selected 2026-11-10.
+Archive: Untitled #5.zip
+Archive SHA-256: f53b53a72ca7c4adb15b5a87182de026593fee1c42e6d3491d23e5543e3cab49
+FBX SHA-256: 91a09c7a9abcfd909a9c88a3984b84fa851a331a8bc8fbc0fd404f02918858a4
+Tripo FBX with one bundled 2048px base-color JPEG. No independent public
+redistribution license was supplied. Raw and generated mesh/texture/package
+bytes remain private and ignored for local integration.
+
+First-party conversion retains all triangulated FBX surface/UV seams and copies
+the source JPEG exactly. Uniform length is 2.8 m. The housing is presented only
+for compatible 3x3 junctions whose six selected native belt endpoints fit its
+rigid authored ports. Existing 2x2/4x4 behavior and native cargo transfer remain.
+Installed Blender/NumPy/Pillow/F3D are tools, not bundled dependencies. No tool,
+model or package was downloaded. No game-owned assets are copied.

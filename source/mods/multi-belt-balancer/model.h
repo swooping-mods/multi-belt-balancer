@@ -12,7 +12,7 @@ static void mbm_update(void){
         if(junctions[j].n!=3)continue;
         SPVec3 input[3],output[3];int ok=1;
         for(unsigned i=0;i<3;i++){
-            DRoot a=record(junctions[j].in[i],&ok),b=record(junctions[j].out[i],&ok);
+            DRoot a=record(junctions[j].in[i].id,&ok),b=record(junctions[j].out[i].id,&ok);
             if(!a||!b)ok=0;
             input[i]=a?mbm_vec(point(dget(a),"end")):su_v(0,0,0);output[i]=b?mbm_vec(point(dget(b),"start")):su_v(0,0,0);ddrop(&a);ddrop(&b);
         }
